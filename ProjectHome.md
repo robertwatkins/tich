@@ -1,0 +1,1 @@
+This is the home for the "Today In Computing History" Google Gadget. More information can be found at https://sites.google.com/site/todayincomputinghistory/
